@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Lost Celtor",
+    "description": "A once great kingdom ruling over the Southern Luminant, now reduced to a scrambled mess of soldiers patrolling the City of the Drowned, their former capital, which was sunk during the Great Drowning.",
+    "territory": ["Celtor"],
+    "enemies": ["??"],
+    "goals": ["???"],
+    "party_rep": "0/12",
+    "image_url": "https://cdn.discordapp.com/attachments/1438854000253599834/1438854000664510645/latest.png?ex=69d0f6b6&is=69cfa536&hm=a715793ec2993d36effb40b6e7aad1b801c4bd6093b396064ab8573cc6e064c2"
+  },
+  {
+    "name": "The Children of Navae",
+    "description": "A mainly nomadic tribe mostly containing Gremor who worship and are guided by Navae. Little is known besides that they originate from the Southern Luminant, much of which was lost in a great drowning.",
+    "territory": ["Meteor Isle", "Etrean Wilds Camp"],
+    "enemies": ["The Ministry"],
+    "goals": ["???"],
+    "party_rep": "0/12",
+    "image_url": "https://cdn.discordapp.com/attachments/1438852675667103866/1438852675918630962/latest.png?ex=69d0f57a&is=69cfa3fa&hm=7d49f64d376a43c47d6f8f42ff28c5762860bcc2083ea78277029fa6ddd38d5d"
+  },
+  {
+    "name": "The Knives of Eylis",
+    "description": "Also known as the Silver Whalers, they are an organization of ruthless mercenaries. They are hired by the Central Authority to cause carnage in the East Luminant, raiding Etrean naval vessels.",
+    "territory": ["???"],
+    "enemies": ["???"],
+    "goals": ["???"],
+    "party_rep": "0/12",
+    "image_url": "https://cdn.discordapp.com/attachments/1438851149762662430/1438851150014058648/latest.png?ex=69d0f40e&is=69cfa28e&hm=228668ff57fbab0532f226b8683d89870a3da4e824310fdc8617f4fd194f54e5"
+  },
+  {
+    "name": "The Divers",
+    "description": "A faction based in the Central Luminant on the Island of Markor. They are a subdivision of the Citadel of Markor and focus on traversing and researching the Depths. Their goal is to better understand the Depths, combat its expansion, and protect the surface from creatures of the Deep.",
+    "territory": ["Central Luminant", "Island of Markor", "Castel light"],
+    "enemies": ["The Ignition Union"],
+    "goals": ["Understand the Depths", "Combat its expansion", "Protect the surface"],
+    "party_rep": "0/12",
+    "image_url": "https://cdn.discordapp.com/attachments/1438848433275539587/1438848433678057576/latest.png?ex=69d0f187&is=69cfa007&hm=5655b1ec4e8a1da1a81307c09d4dc1490c7ccdc7a2ebf8a04b6cf7ab59839ab5"
+  },
+  {
+    "name": "The Summer Company",
+    "description": "A mercantile company operating from the Summer Isle in the Aratel Sea. They are the overworld's chief supplier and manufacturer of firearms and ammunition, and they sell guns to the Authority.",
+    "territory": ["Summer Isle"],
+    "enemies": ["The Ignition Union"],
+    "goals": ["Profit, no matter who's the customer."],
+    "party_rep": "0/12",
+    "image_url": "https://cdn.discordapp.com/attachments/1438846385196630057/1438846386618765323/latest.png?ex=69d0ef9f&is=69cf9e1f&hm=c5ba7f07efb86a9a4607fae0026000a07235ea6b1385724a9b265dd43721253c"
+  },
+  {
+    "name": "The Ministry",
+    "description": "A group of mysterious Shadowcast users who seek to cause Great Drownings in order to achieve godhood. They are led by the Nine Prophets and have hostility toward the Children of Navae.",
+    "territory": ["Minityrsa", "Outpost Antumbra"],
+    "enemies": ["Almost everyone"],
+    "goals": ["Drown the world"],
+    "party_rep": "0/12",
+    "image_url":"https://cdn.discordapp.com/attachments/1438843763618484265/1438843763819679825/latest.png?ex=69d0ed2d&is=69cf9bad&hm=df11d20c1911df77e52203f7300d7e7ecf5c68ecd3dabb2ad06701f72ede5694"
+  },
+  {
+    "name": "The Ignition Union",
+    "description": "A faction active throughout the Eastern Luminant and the Depths. They are a renowned freelancer company and labor union specializing in trade, technology, R&D, and Depths exploration. They are contracted by the Central Authority to kill anything that crawls out of the Depths.",
+    "territory": ["Miner's Landing", "The Frontier Furnace", "The Chariot's Spire"],
+    "enemies": ["The Summer Company", "The Divers"],
+    "goals": ["???"],
+    "party_rep": "0/12",
+    "image_url": "https://cdn.discordapp.com/attachments/1435504268848140328/1435504385210843146/image.png?ex=69d0a4a3&is=69cf5323&hm=e8ae337ca5e0c9964c5d0edf9afde6d45611de9be605b4747f9dfb37093f1792"
+  },
+  {
+    "name": "Etrea",
+    "description": "A kingdom of primarily Etreans and the main ruling faction in the Eastern Luminant. They reside in their capital of Etris and also oversee the Isle of Vigils, which acts as a military school.",
+    "territory": ["Etris", "Isle of Vigils"],
+    "enemies": ["The Central Authority"],
+    "goals": ["???"],
+    "party_rep": "0/12",
+    "image_url": "https://cdn.discordapp.com/attachments/1429929743616180294/1429929743842676907/image.png?ex=69d0cc19&is=69cf7a99&hm=5f6cb5d039218dc806c202487a4818a14c15c3080cffcd5f06584665494fb3f3"
+  },
+  {
+    "name": "The Central Authority",
+    "description": "A large military organization native to the Central Luminant. It is militaristic, authoritarian, expansionist, treacherous, and dishonorable. It works with smaller factions such as the Ignition Union, Summer Company, Divers, and Knives of Eylis.",
+    "territory": ["Central Luminant", "Fort Merit", "Port Merit", "Merit's Reach"],
+    "enemies": ["Etrea", "The Hundreds Legion"],
+    "goals": ["???"],
+    "party_rep": "0/12",
+    "image_url": "https://cdn.discordapp.com/attachments/1435199432902709298/1435199433070350397/image.png?ex=69d0da21&is=69cf88a1&hm=0b8e48a00d09b6f4261c2c6f264a10228ac7760fae5dcb3c1eacc1a33b0af68b"
+  },
+  {
+    "name": "The Hundred Legions",
+    "description": "A superpower native to the Western Luminant. A powerful empire with a hundred legions of soldiers. They once allied with the Authority, but were betrayed.",
+    "territory": ["Western Luminant", "Vipers Jaw Camp"],
+    "enemies": ["The Central Authority"],
+    "goals": ["???"],
+    "party_rep": "0/12",
+    "image_url": "https://cdn.discordapp.com/attachments/1435202933594656843/1435202933955362816/image.png?ex=69d0dd64&is=69cf8be4&hm=bcc13307b0a5d0a6978bfb6b7c1d0d147e047eb761bceb75d6fb7aa1cd8808d9"
+  },
+  {
+    "name": "The Hive",
+    "description": "A faction that operates within massive trees called Greathives. They are ruled by a Greatlord and use an attunement called Lifeweave to transfer life energy, create organic technology, and power devices. They are extremely closed off and hostile to outsiders who learn about Lifeweave.",
+    "territory": ["Greathive Aratel", "The Lordsgrove"],
+    "enemies": ["Etrea", "The Ministry"],
+    "goals": ["???"],
+    "party_rep": "0/12",
+    "image_url": "https://cdn.discordapp.com/attachments/1435372942119669980/1435372942446952659/image.png?ex=69d0d2f9&is=69cf8179&hm=0e83fd451a3c12a17d5ac70d92192835c342c7bb0b0bf3d3f6c90ee6b9b48941"
+  }
+]
