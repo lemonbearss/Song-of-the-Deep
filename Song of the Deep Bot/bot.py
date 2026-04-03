@@ -792,6 +792,16 @@ QUESTION:
         for chunk in chunks[1:]:
             await interaction.followup.send(chunk)
 
+    except requests.exceptions.ConnectionError:
+        await interaction.followup.send(
+            "AI is currently offline.",
+            ephemeral=True
+        )
+    except requests.exceptions.Timeout:
+        await interaction.followup.send(
+            "AI is currently offline.",
+            ephemeral=True
+        )
     except Exception as e:
         await interaction.followup.send(
             f"There was an error while asking the local AI:\n`{e}`",
